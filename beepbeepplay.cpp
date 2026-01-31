@@ -20,9 +20,8 @@ long linearVolumeToDS(float v)
     if (v <= 0.0f) return -10000;
     if (v >= 1.0f) return 0;
 
-    // UI-style curve (NOT audio-correct, but feels right)
     float t = 1.0f - v;
-    long ds = (long)(-10000.0f * t * t);  // quadratic
+    long ds = (long)(-10000.0f * t * t);
 
     return ds;
 }
