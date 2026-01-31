@@ -53,7 +53,7 @@ No external dependencies required beyond the Windows SDK.
 GNU GPL v3 (or later).  
 No warranty provided.
 
-**Author:** Kyle Rhaged  
+**Author:** Rhaged
 **GitHub:** [Rhagedx86](https://github.com/rhagedx86)
 
 If you enjoy this plugin and want to support my work, you can buy me a coffee here: [Ko-fi](https://ko-fi.com/rhaged)
